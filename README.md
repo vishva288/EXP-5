@@ -14,6 +14,8 @@ S.No	Name of the Apparatus	Range	Quantity
 5	Digital Ammeter	(0-200)mA	1
 6	Digital Voltmeter	(0-20)V DC	1
 7	Connecting Wires	As Required	
+<img width="784" height="599" alt="Screenshot 2026-05-28 224931" src="https://github.com/user-attachments/assets/4e98d600-57bb-48f7-af02-d61d0e9e4b41" />
+
 
 CIRCUIT DIAGRAM:
 THEORY:
@@ -30,8 +32,12 @@ PROCEDURE:
 OBSERVATIONS:
 
 REGULATION CHARACTERISTICS:
+<img width="599" height="579" alt="Screenshot 2026-05-28 224959" src="https://github.com/user-attachments/assets/a4dc7df6-7929-4f1e-bb0a-2b2c9e77b196" />
+
 
 V-I & REGULATION CHARACTERISTICS:
+<img width="569" height="569" alt="Screenshot 2026-05-28 225007" src="https://github.com/user-attachments/assets/8fc26fcd-4f02-48e8-8031-8376b698ad04" />
+
 
 PRECAUTIONS:
 
